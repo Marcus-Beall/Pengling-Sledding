@@ -1,0 +1,95 @@
+.black {
+  background-color: black;
+  height: 20px;
+}
+
+.card-black { 
+  background:#6CC3D5;
+  padding: 20px;
+  box-shadow: 1px 1px 2px rgb(131, 237, 245);
+  margin: 10px 20px;
+  border-radius: 4px;
+  font-family: 'Charmonman', cursive;
+}
+
+.card-info {
+  background: #6CC3D5;
+padding: 30px;
+box-shadow: 1px 1px 2px #fff;
+margin: 10px 20px;
+border-radius: 4px;
+height: 220px;
+font-size: .5rem;
+}
+
+.pic {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.card-white {
+  background: aliceblue;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin: 10px 0px;
+  border-radius: 4px;
+}
+
+.snow {
+  background-color: aliceblue;
+}
+
+.frost {
+  background-color: lightblue;
+}
+
+.box {
+  height: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.space {
+  height: 100px;
+}
+
+.btn-info {
+  max-width: 101px;
+}
+
+.btn-info.style0 {
+  max-width: 60px;
+}
+
+.btn-info.times0 {
+  max-width: 70px;
+}
+
+.btn-info.frozen0 {
+  max-width: 75px;
+}
+
+.card-info p {
+  color: black;
+}
+
+.end-stuff, h2, h6 {
+  color: lightskyblue;
+  margin-bottom: 1rem;
+}
+
+.space1 {
+  height: 50px;
+}
+
+h6 {
+  text-decoration: lightskyblue;
+  text-decoration-line: underline;
+}
+
+.scenery-pics {
+  margin-bottom: 4px;
+}
